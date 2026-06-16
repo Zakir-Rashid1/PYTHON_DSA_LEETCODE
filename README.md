@@ -12,20 +12,20 @@ Welcome to my repository of **Data Structures and Algorithms (DSA)** and **LeetC
 
 The code is organized logically by topic and difficulty level so that it is easy to navigate:
 
-### 🧩 1. [Basics (01_Basics)](file:///Volumes/Cse/DSA/01_Basics/)
+### 🧩 1. [Basics](file:///Volumes/Cse/DSA/01_Basics/)
 Basic programming fundamentals, recursions, and elementary sorting algorithms.
 *   📐 **[Patterns](file:///Volumes/Cse/DSA/01_Basics/Patterns/)** — Nested loops, pattern matrices, and grid layouts.
 *   🔄 **[Recursion](file:///Volumes/Cse/DSA/01_Basics/Recursion/)** — Reversals, Fibonacci, math properties, and base conversions.
 *   🧮 **[Simple Programs](file:///Volumes/Cse/DSA/01_Basics/Simple_Programs/)** — Primality, digit reversals, Armstrong numbers, and GCD.
 *   📶 **[Sorting](file:///Volumes/Cse/DSA/01_Basics/Sorting/)** — Standard sorting routines (Bubble, Selection, Insertion, Merge, Quick).
 
-### 📊 2. [Arrays (02_Arrays)](file:///Volumes/Cse/DSA/02_Arrays/)
+### 📊 2. [Arrays](file:///Volumes/Cse/DSA/02_Arrays/)
 Array-related questions categorized by complexity:
 *   🟢 **[Easy Arrays](file:///Volumes/Cse/DSA/02_Arrays/Easy/)** — Basic manipulation, rotation, duplicates, and [Prefix Sums](file:///Volumes/Cse/DSA/02_Arrays/Easy/Preffix_sum).
 *   🟡 **[Medium Arrays](file:///Volumes/Cse/DSA/02_Arrays/Medium/)** — Subarray sums, stock analysis, 2D matrix operations, and rotations.
 *   🔴 **[Tough Arrays](file:///Volumes/Cse/DSA/02_Arrays/Tough/)** — N-Sum variations, XOR sub-arrays, in-place merging, and [Pascal's Triangle](file:///Volumes/Cse/DSA/02_Arrays/Tough/Pascal_Triangle).
 
-### 🔍 3. [Binary Search (03_Binary_Search)](file:///Volumes/Cse/DSA/03_Binary_Search/)
+### 🔍 3. [Binary Search](file:///Volumes/Cse/DSA/03_Binary_Search/)
 Binary search algorithms on 1D arrays, 2D arrays, and search-space answers:
 *   🟢 **[1D Arrays](file:///Volumes/Cse/DSA/03_Binary_Search/1D_Arrays/)** — Target search, bounds, search range, and rotations.
 *   🟡 **[2D Arrays](file:///Volumes/Cse/DSA/03_Binary_Search/2D_Arrays/)** — Matrix search, peak element finder.
