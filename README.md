@@ -25,6 +25,12 @@ Array-related questions categorized by complexity:
 *   🟡 **[Medium Arrays](file:///Volumes/Cse/DSA/02_Arrays/Medium/)** — Subarray sums, stock analysis, 2D matrix operations, and rotations.
 *   🔴 **[Tough Arrays](file:///Volumes/Cse/DSA/02_Arrays/Tough/)** — N-Sum variations, XOR sub-arrays, in-place merging, and [Pascal's Triangle](file:///Volumes/Cse/DSA/02_Arrays/Tough/Pascal_Triangle).
 
+### 🔍 3. [Binary Search (03_Binary_Search)](file:///Volumes/Cse/DSA/03_Binary_Search/)
+Binary search algorithms on 1D arrays, 2D arrays, and search-space answers:
+*   🟢 **[1D Arrays](file:///Volumes/Cse/DSA/03_Binary_Search/1D_Arrays/)** — Target search, bounds, search range, and rotations.
+*   🟡 **[2D Arrays](file:///Volumes/Cse/DSA/03_Binary_Search/2D_Arrays/)** — Matrix search, peak element finder.
+*   🔴 **[BS on Answers](file:///Volumes/Cse/DSA/03_Binary_Search/BS_on_Answers/)** — Optimization, division, allocations, and bounds.
+
 ---
 
 ## 🛠️ Getting Started
@@ -51,6 +57,7 @@ python 01_Basics/Sorting/1_merge_sort.py
 - [x] Easy & Prefix Sum Array Problems
 - [x] Medium Array & Matrix Problems
 - [x] Tough/Hard Array Problems
+- [/] Binary Search (In Progress)
 - [ ] Strings (Next)
 - [ ] Linked Lists (Planned)
 - [ ] Trees & Graphs (Planned)
